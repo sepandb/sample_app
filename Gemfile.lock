@@ -214,7 +214,7 @@ DEPENDENCIES
   guard-rspec (= 1.2.1)
   guard-spork (= 1.2.0)
   jquery-rails (= 2.0.2)
-  pg (= 0.12.2)
+  pg
   rails (= 3.2.14)
   rb-fsevent (= 0.9.3)
   rspec-rails (= 2.11.0)
